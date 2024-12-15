@@ -1,3 +1,7 @@
+# Nota
+este repositório é antigo, conta com projetos antigos de python que fiz, as pastas mais recentes são de projetos que estavam em outros repositórios antigos que foram trazidos pra este por organização.
+obrigado.
+
 <p align='center'><img src='https://user-images.githubusercontent.com/59841892/166122924-66d1cdf0-085c-4a7b-ab79-87e566c1051d.png' style="width: 300px;"></p>
 <h1 align="center"> PROJETOS EM PYTHON </h1>
 <p>meus projetos em python, desde os mais antigos até os mais atuais;</p>
